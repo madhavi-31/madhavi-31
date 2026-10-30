@@ -50,7 +50,7 @@ I'm a B.Tech CSE (2026) graduate from Hyderabad who loves building clean, respon
 
 ---
 
-## 🚀 Featured Projects
+
 
 ## 🚀 Featured Projects
 
@@ -170,7 +170,7 @@ The end-to-end ML workflow: preprocessing, model training, and evaluation.
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="www.linkedin.com/in/madhavi-loya"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://github.com/madhavi-31"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
 
@@ -203,7 +203,7 @@ The end-to-end ML workflow: preprocessing, model training, and evaluation.
 
 ### 🤝 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/madhavi-loya)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/madhavi-31)
 
 *Passionate about building things that matter, one commit at a time.* ✨
