@@ -167,10 +167,11 @@ The end-to-end ML workflow: preprocessing, model training, and evaluation.
 </tr>
 </table>
 
+
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="www.linkedin.com/in/madhavi-loya"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://www.linkedin.com/in/madhavi-loya"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://github.com/madhavi-31"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
 
@@ -188,18 +189,6 @@ The end-to-end ML workflow: preprocessing, model training, and evaluation.
 </div>
 
 ---
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=madhavi-31&theme=onedark&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-<div align="center">
 
 ### 🤝 Let's Connect
 
